@@ -17,11 +17,11 @@ Odpowiedź:  Przy załączeniu symulacji dioda świeci
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  dioda LED działa jak w założeniu zadania, nie wiem czy zamianę kolejności wykonałem poprawnie, ale nie wniosła żadnej zmiany
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  kod działa poprawnie. Zapewne nie zawsze, ale nie mam argumentu wieć odpowiem, że zawsze można zastąpić
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
